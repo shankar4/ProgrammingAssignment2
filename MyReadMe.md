@@ -1,2 +1,2 @@
-#11/20/14 Tried out the example with makeVector() and cachemean() functions provided by Prof. Peng, JHU
-#11/20/14 Used solve() function on fairly large matrices
+#####11/20/14 Tried out the example with makeVector() and cachemean() functions provided by Prof. Peng, JHU. Comments on what works and what does not - included as a Wikipage - "Experiences with the given example"
+#####11/20/14 Used solve() function on fairly large and small matrices. Comments on what works and what might surprise you - included as a Wikipage - "Use of solve() for matrix inversion"
